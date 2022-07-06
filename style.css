@@ -56,3 +56,18 @@ p {
     margin-top: 50px;
 
 }
+
+.idea {
+    display: flex;
+
+}
+
+.one {
+
+    box-shadow: 10px 10px 30px;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+
+
+}
