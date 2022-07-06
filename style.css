@@ -1,13 +1,18 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
     text-align: center;
+    font-size: 100px;
+
 }
 
 p {
     text-align: center;
+    font-size: 50px;
 }
 
 .link-button {
@@ -20,10 +25,13 @@ p {
 }
 
 .front-page {
-    background-image: url(images/flooding-people-6.jpg);
+    background-image: url(images/flooding-people-7.jpg);
+    background-position: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
+    margin: auto;
+    padding: none;
 }
 
 .second-page {
@@ -49,6 +57,7 @@ p {
     background-color: coral;
     padding: 10px 10px;
     border-radius: 10px;
+    text-decoration: none;
 
 }
 
@@ -68,6 +77,38 @@ p {
     width: 40%;
     margin-left: 2%;
     margin-right: 2%;
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-color: aquamarine;
 
 
+}
+
+.part-one {
+    font-size: 20px;
+
+}
+
+.describe {
+    font-size: 40px;
+}
+
+.last-part {
+    font-size: 20px;
+
+}
+
+.depend {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin-top: 70px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.half-width img {
+    width: 70%;
 }
