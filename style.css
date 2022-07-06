@@ -1,0 +1,58 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+
+
+    background-color: orangered;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+
+.front-page {
+    background-image: url(images/flooding-people-6.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.second-page {
+    text-align: center;
+
+}
+
+.taka {
+    padding: 10px 10px;
+    background-color: coral;
+
+    text-decoration: none;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+}
+
+.amount {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.money {
+    background-color: coral;
+    padding: 10px 10px;
+    border-radius: 10px;
+
+}
+
+.plan {
+    margin-top: 50px;
+
+}
